@@ -8,7 +8,7 @@ st.markdown("---")
 st.write("Assalam-o-Alaikum! Main Rehan ka banaya hua AI hoon. Mujhse kuch bhi poochein.")
 
 # API Key - Isse error nahi aayega
-API_KEY = "AIzaSyBaIL4btwyQwMY9twEJb_N7lNXU5ky2JbM"
+API_KEY = "AIzaSyCLUCNYz3fI7Dnk-cMb7LisdXLVZL-9Vco"
 genai.configure(api_key=API_KEY)
 
 # Chatting ka dabba
