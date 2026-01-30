@@ -2,8 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Yahan apni NAYI API KEY dhyan se paste karein
-API_KEY = 
-"AIzaSyADdxPEwvarm4xeNnaCDkl0q2KQo2HsM-Q"
+API_KEY = "AIzaSyADdxPEwvarm4xeNnaCDkl0q2KQo2HsM-Q"
 
 genai.configure(api_key=API_KEY)
 
